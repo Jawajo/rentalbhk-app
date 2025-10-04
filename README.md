@@ -65,3 +65,8 @@ To get a local copy up and running, follow these steps.
 
 This application is configured for easy deployment with [Firebase App Hosting](https://firebase.google.com/docs/app-hosting). The `apphosting.yaml` file in the root directory contains the necessary build and run configurations.
 cd path/to/your/rentalbhk-app
+git init
+git add .
+git commit -m "Initial commit of RentalBHK project"
+git remote add origin https://github.com/your-username/rentalbhk-app.git
+git push -u origin main
