@@ -64,3 +64,4 @@ To get a local copy up and running, follow these steps.
 ## Deployment
 
 This application is configured for easy deployment with [Firebase App Hosting](https://firebase.google.com/docs/app-hosting). The `apphosting.yaml` file in the root directory contains the necessary build and run configurations.
+cd path/to/your/rentalbhk-app
